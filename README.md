@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Satya
-An Electrical/Computer Systems Engineering + Computer Science double degree student based in Melbourne. I'm currently working as a **Teaching Associate** at [Monash University](https://www.monash.edu/), teaching programming, algorithms and data structures, computer systems, electrical circuits, and AI. My interests include Computer Vision, Embedded Systems, Robotics, AI, and web development.
+An Electrical/Computer Systems Engineering + Computer Science double degree student based in Melbourne, Australia. I'm currently working as a **Teaching Associate** at [Monash University](https://www.monash.edu/), teaching programming, algorithms and data structures, computer systems, electrical circuits, and AI. My interests include Computer Vision, Embedded Systems, Robotics, AI, and web development.
 
 I'm open to work, and am always open to a chat, feel free to reach out:
 <p><a href="https://www.linkedin.com/in/satya-jhaveri-4a31b4288/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:satyajhaveri@protonmail.ch"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logoColor=white" height=25></a> 
