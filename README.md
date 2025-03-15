@@ -1,13 +1,9 @@
 ## Hi 👋 I'm Satya
-An Electrical/Computer Systems Engineering + Computer Science double degree student based in Melbourne, Australia. I'm currently working as a **Teaching Associate** at [Monash University](https://www.monash.edu/), teaching programming, algorithms and data structures, computer systems, electrical circuits, and AI. My interests include Computer Vision, Embedded Systems, Robotics, AI, and web development.
+I studied an Electrical/Computer Systems Engineering + Computer Science double degree in Melbourne, Australia. I'm currently working as a **Deputy Unit Coordinator** at [Monash University](https://www.monash.edu/), teaching programming, algorithms and data structures, computer systems, electrical circuits, and AI. My interests include Computer Vision, Embedded Systems, Robotics, AI, and web development.
 
 I'm open to work, and am always open to a chat, feel free to reach out:
 <p><a href="https://www.linkedin.com/in/satya-jhaveri-4a31b4288/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:satyajhaveri@protonmail.ch"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logoColor=white" height=25></a> 
 <br>
-
-### Some quick facts:
-- 🔭 I’m currently working on completing my final year of Electrical/Computer Systems and Computer Science double degree
-- 📫 How to reach me: [Email](mailto:satyajhaveri@protonmail.ch)
 
 
 ### Languages I use
@@ -37,17 +33,6 @@ I'm open to work, and am always open to a chat, feel free to reach out:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### Misc Skills / Utilities
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 Ranked top 150 users on CodeAbbey:
