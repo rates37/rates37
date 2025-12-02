@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Satya
-I studied an Electrical/Computer Systems Engineering + Computer Science double degree in Melbourne, Australia. I'm currently working as a **Deputy Unit Coordinator** at [Monash University](https://www.monash.edu/), teaching programming, algorithms and data structures, computer systems, electrical circuits, and AI. My interests include Computer Vision, Embedded Systems, Robotics, AI, and web development.
+I studied an Electrical/Computer Systems Engineering + Computer Science double degree in Melbourne, Australia. I'm currently working as an **Associate Sustaining Engineer** at [Canoncial](https://www.canonical.com/).
 
-I'm open to work, and am always open to a chat, feel free to reach out:
+I'm always open to a chat, feel free to reach out:
 <p><a href="https://www.linkedin.com/in/satya-jhaveri-4a31b4288/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:satyajhaveri@protonmail.ch"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logoColor=white" height=25></a> 
 <br>
 
@@ -18,6 +18,7 @@ I'm open to work, and am always open to a chat, feel free to reach out:
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logoColor=white)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust)
 
 
 ### Technologies and Frameworks:
