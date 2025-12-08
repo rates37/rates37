@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Satya
-I studied an Electrical/Computer Systems Engineering + Computer Science double degree in Melbourne, Australia. I'm currently working as an **Associate Sustaining Engineer** at [Canoncial](https://www.canonical.com/).
+I studied an Electrical/Computer Systems Engineering + Computer Science double degree in Melbourne, Australia. I'm currently working as an **Associate Sustaining Engineer** at [Canonical](https://www.canonical.com/).
 
 I'm always open to a chat, feel free to reach out:
 <p><a href="https://www.linkedin.com/in/satya-jhaveri-4a31b4288/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:satyajhaveri@protonmail.ch"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logoColor=white" height=25></a> 
