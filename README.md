@@ -36,6 +36,6 @@ I'm always open to a chat, feel free to reach out:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-Ranked top 150 users on CodeAbbey:
+Ranked top 100 users (top 0.2%) on CodeAbbey:
 
 [![Satyajhaveri CodeAbbey banner](https://www.codeabbey.com/index/user_banner/satyajhaveri.png)](https://www.codeabbey.com/index/user_profile/satyajhaveri)
